@@ -7,6 +7,7 @@ Introduction:
 Flames Game is a relationship calculating algorithm famous between the youngsters. Once upon a time everyone might heard about this and many of them tried out this secretly. Some took this as very serious also. So what FLAMES stance for? 
 
 F - Friendship 
+
 L - Lovers 
 A - Affection 
 M - Marriage 
