@@ -1,4 +1,4 @@
-# FLAMES---A-PUZZLE-GAME-IN-C++ BY ROHAN MEHRA.
+# F.L.A.M.E.S.---A-PUZZLE-GAME-IN-C++ BY ROHAN MEHRA.
 
 Abstract:
 Analyze your future relationship. You can now use the acronym "FLAME" to figure out just what the future holds for your and this other person. Match the letter you ended on with the following meaning of each letter of the word "FLAME":
