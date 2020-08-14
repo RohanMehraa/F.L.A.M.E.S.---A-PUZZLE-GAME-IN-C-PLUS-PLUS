@@ -81,12 +81,9 @@
 	     while(j<k)
 	       {
 		i++;
-		 if(tflm[i] != '\0')
-		  {
-		    if(tflm[i] != '0')
-		     j++;
-		   }
-
+		 if(tflm[i] != '\0' && tflm[i] != '0')
+		   j++;
+		 
 		 else
 		  {
 		   i=-1;
