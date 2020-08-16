@@ -96,7 +96,7 @@ Answer should be complete in itself
 
 EXCEPTION:
 
-If the user enters the same name in both entries, which is a rare case but still might exist. Then in that case, no resultant string is found. And the resultant sting lenght is '0'. And with zero we can't start operation on the Flames string.
+If the user enters the same name in both entries, which is a rare case but still might exist. Then in that case, no resultant string is found. And the resultant string length is '0'. And with zero we can't start operation on the Flames string.
 
 So, in order to address this scenario. I've implemented an exception case. In this scenario, the result will be showed purely on the basis of luck/fate of the couple, as a random output is generated in such a case.
 
